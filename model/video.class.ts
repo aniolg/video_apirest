@@ -1,4 +1,4 @@
-import { Review } from './review.class';
+//import { Review } from './review.class';
 export class Video{
     id:number;
     name:string;
